@@ -13,7 +13,8 @@ Para entender las reglas del juego, puedes probar a jugar online en https://es.p
 
 Pasos
 
-1. Codifique el problema Masyu como un programa ASP que resuelva el puzzle para cualquier instancia. Este programa es nuestra Base de Conocimientos y se llamará masyuKB.lp
+1. Codifique el problema Masyu como un programa ASP que resuelva el puzzle para cualquier instancia. 
+    Este programa es nuestra Base de Conocimientos y se llamará masyuKB.lp
 
 2.Cada instancia de puzzle se proporcionará como un archivo ASCII masyuX.txt con el siguiente formato. 
     Cada línea contiene n puntos separados por espacios en blanco (es decir, cada línea tiene 2*n-1 caracteres seguidos de una nueva línea). 
